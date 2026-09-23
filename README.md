@@ -75,9 +75,7 @@ The system includes an automated installer (`Setup.exe`):
 
 ### 🚀 Release History
 
-* **v2.2.2 (Current):** Improved print engine, fast Excel exports, performance optimizations, and bug fixes.
-* **v2.0.0:** Major UI redesign and multi-user privilege integration.
-
+* ** https://github.com/MrN0oo0B/Archive-System-Releases/tags
 ---
 
 ### 📜 End-User License Agreement (EULA)
@@ -167,9 +165,7 @@ The system includes an automated installer (`Setup.exe`):
 
 ### 🚀 سجل الإصدارات (Releases)
 
-* **v2.2.2 (الإصدار الحالي):** تحسين محرك الطباعة، سرعة تصدير ملفات Excel، تحسين الأداء وإصلاح بعض الأخطاء.
-* **v2.0.0:** إعادة تصميم الواجهة بالكامل ودعم نظام الصلاحيات وتعدد المستخدمين.
-
+https://github.com/MrN0oo0B/Archive-System-Releases/tags
 ---
 
 ### 📜 اتفاقية ورخصة الاستخدام (EULA)
