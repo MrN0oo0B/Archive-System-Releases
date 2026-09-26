@@ -10,7 +10,7 @@
 
 ### 📦 Current Release
 
-**v2.2.21**
+**v2.2.35**
 
 The public release repository contains the Windows distribution packages and release information.
 
@@ -28,6 +28,9 @@ The public release repository contains the Windows distribution packages and rel
 - Data-integrity checking.
 - Offline-first operation for normal document-management work.
 - In-place updates designed to preserve application data.
+- Localized Windows installer EULA for English and Arabic.
+- Bilingual update management and audit log screens.
+- Book printing supports all image/PDF attachments.
 
 ### 💻 System Requirements
 
@@ -62,7 +65,7 @@ For each release, the repository may contain the Windows installer and update me
 
 ### 📜 Release History
 
-- **v2.2.21** — Current public release.
+- **v2.2.35** — Current public release.
 - **v2.2.20** — Previous public release.
 
 See the **Releases** and **Tags** pages for the complete release history.
@@ -86,7 +89,7 @@ The application source code is maintained separately in the private repository:
 
 ### 📦 الإصدار الحالي
 
-**v2.2.21**
+**v2.2.35**
 
 يحتوي هذا المستودع العام على إصدارات Windows وملفات التوزيع ومعلومات الإصدارات.
 
@@ -138,7 +141,7 @@ The application source code is maintained separately in the private repository:
 
 ### 📜 سجل الإصدارات
 
-- **v2.2.21** — الإصدار العام الحالي.
+- **v2.2.35** — الإصدار العام الحالي.
 - **v2.2.20** — الإصدار العام السابق.
 
 يمكن الاطلاع على بقية الإصدارات من صفحات **Releases** و **Tags**.
